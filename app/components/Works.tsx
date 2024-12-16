@@ -1,9 +1,9 @@
 import React from 'react'
-import potrait3 from './assets/potrait3.jpg'
+import potrait3 from './assets/Potrait3.jpg'
 import potrait4 from './assets/potrait4.jpg'
 import potrait5 from './assets/potrait5.jpg'
 import potrait8 from './assets/potrait8.jpg'
-import potrait9 from './assets/potrait9.jpg'
+import potrait9 from './assets/Potrait9.jpg'
 import Potrait from './Potrait'
 
 const images = [
